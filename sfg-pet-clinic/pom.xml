@@ -38,8 +38,8 @@
 				<artifactId>maven-release-plugin</artifactId>
 
 				<configuration>
-					<localCheckout>true</localCheckout>
-					<pushChanges>false</pushChanges>
+<!--					<localCheckout>true</localCheckout>-->
+<!--					<pushChanges>false</pushChanges>-->
 					<goals>install</goals>
 					<autoVersionSubmodules>true</autoVersionSubmodules>
 				</configuration>
